@@ -149,7 +149,7 @@
     srcset="https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api?username=SanjayKhatiChhetri&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api?username=SanjayKhatiChhetri&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+  <img src="https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api?username=SanjayKhatiChhetri&show_icons=true" />
 </picture>
 
 <picture>
@@ -174,7 +174,7 @@
   	srcset="https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/gist?id=5b5cd2abd612bc8d096e383a32529192&show_owner=true"
 	media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 	  />
-  <img src="https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/wakatime?username=SanjayKhatiChhetri&layout=compact&langs_count=20" />
+  <img src="https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/gist?id=5b5cd2abd612bc8d096e383a32529192&show_owner=true" />
   <!-- [![Gist Card](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/gist?id=5b5cd2abd612bc8d096e383a32529192&show_owner=true)](https://gist.github.com/SanjayKhatiChhetri/5b5cd2abd612bc8d096e383a32529192) -->
 </picture>
 
