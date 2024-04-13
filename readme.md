@@ -140,7 +140,7 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SanjayKhatiChhetri/SanjayKhatiChhetri/output/github-contribution-grid-snake.svg" />
 </div>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api?username=SanjayKhatiChhetri&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=onedark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api?username=SanjayKhatiChhetri&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api?username=SanjayKhatiChhetri&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 <!-- <picture>
   <source
@@ -156,7 +156,7 @@
 
 <picture>
   <source
-	srcset="https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/top-langs/?username=SanjayKhatiChhetri&layout=compact&langs_count=20&theme=onedark"
+	srcset="https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/top-langs/?username=SanjayKhatiChhetri&layout=compact&langs_count=20&theme=dark"
 	media="(prefers-color-scheme: dark)"
   />
   <source
@@ -169,7 +169,7 @@
 
 <picture>
   <source
-	srcset="https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/gist?id=5b5cd2abd612bc8d096e383a32529192&show_owner=true&theme=onedark"
+	srcset="https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/gist?id=5b5cd2abd612bc8d096e383a32529192&show_owner=true&theme=dark"
 	media="(prefers-color-scheme: dark)"
   />
   <source
