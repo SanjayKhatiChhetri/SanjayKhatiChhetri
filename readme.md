@@ -204,9 +204,14 @@
  [![Readme Card](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/pin/?username=SanjayKhatiChhetri&repo=HackerNewsApp&theme=github_dark#gh-dark-mode-only)](https://github.com/SanjayKhatiChhetri/HackerNewsApp#gh-dark-mode-only)
   [![Readme Card](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/pin/?username=SanjayKhatiChhetri&repo=HackerNewsApp&theme=default#gh-light-mode-only)](https://github.com/SanjayKhatiChhetri/HackerNewsApp#gh-light-mode-only)
 
+   [![Readme Card](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/pin/?username=SanjayKhatiChhetri&repo=CompSec&theme=github_dark#gh-dark-mode-only)](https://github.com/SanjayKhatiChhetri/CompSec#gh-dark-mode-only)
+  [![Readme Card](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/pin/?username=SanjayKhatiChhetri&repo=CompSec&theme=default#gh-light-mode-only)](https://github.com/SanjayKhatiChhetri/CompSec#gh-light-mode-only)
+
+  [![Readme Card](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/pin/?username=SanjayKhatiChhetri&repo=devops-exercises&theme=github_dark#gh-dark-mode-only)](https://github.com/SanjayKhatiChhetri/devops-exercises#gh-dark-mode-only)
+  [![Readme Card](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/pin/?username=SanjayKhatiChhetri&repo=devops-exercises&theme=default#gh-light-mode-only)](https://github.com/SanjayKhatiChhetri/devops-exercises#gh-light-mode-only)
 <!-- <picture>
   <source
-	srcset="https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/pin/?username=SanjayKhatiChhetri&repo=HackerNewsApp&theme=github_dark"
+	srcset="https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/pin/?username=SanjayKhatiChhetri&repo=CompSec&theme=github_dark"
 	media="(prefers-color-scheme: dark)"
   />
   <source
