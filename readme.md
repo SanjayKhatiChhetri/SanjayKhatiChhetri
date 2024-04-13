@@ -2,40 +2,37 @@
 
 <div>
    <!--align left profile views badge  -->
-  <img src="https://komarev.com/ghpvc/?username=SanjayKhatiChhetri&label=Profile%20views&color=0e75b6&style=flat" alt="SanjayKhatiChhetri" />
+  <img src="https://komarev.com/ghpvc/?username=SanjayKhatiChhetri&label=Profile%20views&color=00cf00&style=flat" alt="SanjayKhatiChhetri" />
 </div>
 
-## I'm a Sanjay Khati Chhetri, a student, and a developer!
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sanjay!;" />
+</h1>
+<h3 align="center"> I'm a Sanjay Khati Chhetri, a student, and a developer! </h3>
 
-<h3>Where to find me</h3>
-<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+  
+
+
+
+## Where to find me
+<p align="center">
+	<a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-424242.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+	<a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+	<a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=original" /></a> 
+	<a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=original" /></a>
+	<a href="sanjaykhati1011@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-ea4235.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+	<a href="https://dev.to/jonas_sanjay" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-%2312100E.svg?&style=for-the-badge&logo=Dev.to&logoColor=white" /></a>
+	<a href="https://infosec.exchange/@sanjaykhatichhetri" target="_blank"><img alt="Mastodon" src="https://img.shields.io/badge/Mastodon-6260fb.svg?&style=for-the-badge&logo=Mastodon&logoColor=white" /></a>
+	<a href="https://www.researchgate.net/profile/Sanjay-Chhetri-3" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" /></a>
+	<a href="https://literal.club/m_r_r_o_b_o_t" target="_blank"><img alt="Literal" src="https://img.shields.io/badge/Literal.club-ffffff.svg?&style=for-the-badge&logo=Literal.club&logoColor=original" /></a>
+
 </p>
 
-### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
-#### Languages and Tools:
+## Languages and Tools:
 
 <p align="left">
   <img alt="Visual Studio Code" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding:10px;" />
@@ -137,3 +134,13 @@
   <img alt="yarn" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" style="padding:10px;" />
 
 </p>
+
+----------------------------------------------------------------------------------------
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SanjayKhatiChhetri/SanjayKhatiChhetri/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
