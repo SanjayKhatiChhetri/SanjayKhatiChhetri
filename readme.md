@@ -14,10 +14,10 @@
 
 ## Where to find me
 <p align="center">
-	<a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-424242.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-	<a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-	<a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=original" /></a> 
-	<a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=original" /></a>
+	<a href="https://github.com/SanjayKhatiChhetri" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-424242.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+	<a href="https://twitter.com/M_r_R_o_b_o_t_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+	<a href="https://www.linkedin.com/in/sanjay-khati-chhetri-3113b9204/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=original" /></a> 
+	<a href="https://medium.com/@M_r_R_o_b_o_t_" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=original" /></a>
 	<a href="sanjaykhati1011@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-ea4235.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 	<a href="https://dev.to/jonas_sanjay" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-%2312100E.svg?&style=for-the-badge&logo=Dev.to&logoColor=white" /></a>
 	<a href="https://infosec.exchange/@sanjaykhatichhetri" target="_blank"><img alt="Mastodon" src="https://img.shields.io/badge/Mastodon-6260fb.svg?&style=for-the-badge&logo=Mastodon&logoColor=white" /></a>
