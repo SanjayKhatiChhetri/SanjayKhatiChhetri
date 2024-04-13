@@ -160,12 +160,11 @@
 <!-- End of Github Gist Card -->
 
 <!-- Start of Github Extra Pins -->
-
-[![Readme Card](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/pin/?username=SanjayKhatiChhetri&repo=github-readme-stats&show_owner=true&theme=github_dark#gh-dark-mode-only)](https://github.com/SanjayKhatiChhetri/github-readme-stats#gh-dark-mode-only)
-[![Readme Card](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/pin/?username=SanjayKhatiChhetri&repo=github-readme-stats&show_owner=true&theme=default#gh-light-mode-only)](https://github.com/SanjayKhatiChhetri/github-readme-stats#gh-light-mode-only)
-
-[![Readme Card](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/pin/?username=SanjayKhatiChhetri&repo=HackerNewsApp&show_owner=true&theme=github_dark#gh-dark-mode-only)](https://github.com/SanjayKhatiChhetri/HackerNewsApp#gh-dark-mode-only)
-[![Readme Card](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/pin/?username=SanjayKhatiChhetri&repo=HackerNewsApp&show_owner=true&theme=default#gh-light-mode-only)](https://github.com/SanjayKhatiChhetri/HackerNewsApp#gh-light-mode-only)
+#### Top Repositories
+| [![Readme Card](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/pin/?username=SanjayKhatiChhetri&repo=github-readme-stats&show_owner=true&theme=github_dark#gh-dark-mode-only)](https://github.com/SanjayKhatiChhetri/github-readme-stats#gh-dark-mode-only)[![Readme Card](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/pin/?username=SanjayKhatiChhetri&repo=github-readme-stats&show_owner=true&theme=default#gh-light-mode-only)](https://github.com/SanjayKhatiChhetri/github-readme-stats#gh-light-mode-only) | [![Readme Card](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/pin/?username=SanjayKhatiChhetri&repo=HackerNewsApp&show_owner=true&theme=github_dark#gh-dark-mode-only)](https://github.com/SanjayKhatiChhetri/HackerNewsApp#gh-dark-mode-only)[![Readme Card](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/pin/?username=SanjayKhatiChhetri&repo=HackerNewsApp&show_owner=true&theme=default#gh-light-mode-only)](https://github.com/SanjayKhatiChhetri/HackerNewsApp#gh-light-mode-only)|
+| ------------- | ------------- |
+<br />
+<br />
 
 [![Readme Card](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/pin/?username=SanjayKhatiChhetri&repo=CompSec&show_owner=true&theme=github_dark#gh-dark-mode-only)](https://github.com/SanjayKhatiChhetri/CompSec#gh-dark-mode-only)
 [![Readme Card](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/pin/?username=SanjayKhatiChhetri&repo=CompSec&show_owner=true&theme=default#gh-light-mode-only)](https://github.com/SanjayKhatiChhetri/CompSec#gh-light-mode-only)
