@@ -9,11 +9,8 @@
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Sanjay+Khati+Chhetri;a+student+and+a+developer!!;" />
 
+<br>
 <br/>
-<br/>
-  
-
-
 
 ## Where to find me
 <p align="center">
@@ -26,10 +23,10 @@
 	<a href="https://infosec.exchange/@sanjaykhatichhetri" target="_blank"><img alt="Mastodon" src="https://img.shields.io/badge/Mastodon-6260fb.svg?&style=for-the-badge&logo=Mastodon&logoColor=white" /></a>
 	<a href="https://www.researchgate.net/profile/Sanjay-Chhetri-3" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" /></a>
 	<a href="https://literal.club/m_r_r_o_b_o_t" target="_blank"><img alt="Literal" src="https://img.shields.io/badge/Literal.club-e1e6ea.svg?&style=for-the-badge&logo=Literal.club&logoColor=original" /></a>
-
 </p>
 
-
+<br>
+<br/>
 
 ## Languages and Tools:
 
@@ -131,15 +128,12 @@
   <img alt="xml" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" style="padding:10px;" />
   <img alt="yaml" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" style="padding:10px;" />
   <img alt="yarn" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" style="padding:10px;" />
-
 </p>
 
 <br>
+<br/>
 
 <div align="left">
   <h2>🐍 My Contributions 🐍</h2>
-  
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SanjayKhatiChhetri/SanjayKhatiChhetri/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
 </div>
