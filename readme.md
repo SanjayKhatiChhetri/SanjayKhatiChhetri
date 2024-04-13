@@ -4,11 +4,18 @@
 	<a href="https://github.com/SanjayKhatiChhetri/SanjayKhatiChhetri" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/SanjayKhatiChhetri/SanjayKhatiChhetri?label=profile%20updated&style=flat-square"></a>
    	<a href="https://github.com/SanjayKhatiChhetri?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
 </div>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Sanjay+Khati+Chhetri;a+student+and+a+developer!!;" />
+</h3>
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Sanjay+Khati+Chhetri;a+student+and+a+developer!!;" />
+- 🎓 I'm a student and a developer.
+- 🌱 I’m currently Exploring Software Engineering domain.
+- 👯 I’m looking to collaborate on Open Source Projects.
+- 💬 Ask me about anything [here](https://github.com/SanjayKhatiChhetri/SanjayKhatiChhetri/issues).
+
+
 
 <br>
 <br/>
