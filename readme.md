@@ -171,11 +171,11 @@
 
 <!-- Start of Github Gist Card -->
 
-[![Gist Card](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/gist?id=5b5cd2abd612bc8d096e383a32529192&show_owner=true&theme=github_dark#gh-dark-mode-only)](https://gist.github.com/SanjayKhatiChhetri/5b5cd2abd612bc8d096e383a32529192)
-[![Gist Card](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/gist?id=5b5cd2abd612bc8d096e383a32529192&show_owner=true&theme=default#gh-light-mode-only)](https://gist.github.com/SanjayKhatiChhetri/5b5cd2abd612bc8d096e383a32529192)
+[![Gist Card](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/gist?id=5b5cd2abd612bc8d096e383a32529192&show_owner=true&theme=github_dark#gh-dark-mode-only)](https://gist.github.com/SanjayKhatiChhetri/5b5cd2abd612bc8d096e383a32529192#gh-dark-mode-only)
+[![Gist Card](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/gist?id=5b5cd2abd612bc8d096e383a32529192&show_owner=true&theme=default#gh-light-mode-only)](https://gist.github.com/SanjayKhatiChhetri/5b5cd2abd612bc8d096e383a32529192#gh-light-mode-only)
 
-[![Gist Card](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/gist?id=ae4dbebd21cee4da776c678b470dd078&show_owner=true&theme=github_dark#gh-dark-mode-only)](https://gist.github.com/SanjayKhatiChhetri/ae4dbebd21cee4da776c678b470dd078)
-[![Gist Card](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/gist?id=ae4dbebd21cee4da776c678b470dd078&show_owner=true&theme=default#gh-light-mode-only)](https://gist.github.com/SanjayKhatiChhetri/ae4dbebd21cee4da776c678b470dd078)
+[![Gist Card](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/gist?id=ae4dbebd21cee4da776c678b470dd078&show_owner=true&theme=github_dark#gh-dark-mode-only)](https://gist.github.com/SanjayKhatiChhetri/ae4dbebd21cee4da776c678b470dd078#gh-dark-mode-only)
+[![Gist Card](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/gist?id=ae4dbebd21cee4da776c678b470dd078&show_owner=true&theme=default#gh-light-mode-only)](https://gist.github.com/SanjayKhatiChhetri/ae4dbebd21cee4da776c678b470dd078#gh-light-mode-only)
 
 <!-- End of Github Gist Card -->
 
