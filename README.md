@@ -183,3 +183,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#16](https://github.com/anttimaki/next-orangews/pull/16#issuecomment-2020436668) in [anttimaki/next-orangews](https://github.com/anttimaki/next-orangews)
+2. 💪 Opened PR [#16](https://github.com/anttimaki/next-orangews/pull/16) in [anttimaki/next-orangews](https://github.com/anttimaki/next-orangews)
+3. ❗ Opened issue [#53](https://github.com/mobile-development-project-group-7/Mobile-Development-Project-Group-7/issues/53) in [mobile-development-project-group-7/Mobile-Development-Project-Group-7](https://github.com/mobile-development-project-group-7/Mobile-Development-Project-Group-7)
+4. ❗ Opened issue [#52](https://github.com/mobile-development-project-group-7/Mobile-Development-Project-Group-7/issues/52) in [mobile-development-project-group-7/Mobile-Development-Project-Group-7](https://github.com/mobile-development-project-group-7/Mobile-Development-Project-Group-7)
+<!--END_SECTION:activity-->
