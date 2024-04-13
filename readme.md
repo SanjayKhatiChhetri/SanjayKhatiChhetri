@@ -152,18 +152,6 @@
 
 <!-- Start of Github Top Lang stats  -->
 
-<!-- <picture align="center">
-  <source
-	srcset="https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/top-langs/?username=SanjayKhatiChhetri&layout=compact&langs_count=20&theme=github_dark"
-	media="(prefers-color-scheme: dark)"
-  />
-  <source
-  	srcset="https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/top-langs/?username=SanjayKhatiChhetri&layout=compact&langs_count=20"
-	media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-	  />
-  <img src="https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/top-langs/?username=SanjayKhatiChhetri&layout=compact&langs_count=20" />
-</picture> -->
-
 [![Top Langs](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/top-langs/?username=SanjayKhatiChhetri&layout=compact&langs_count=20&theme=github_dark#gh-dark-mode-only)](https://github.com/SanjayKhatiChhetri/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/top-langs/?username=SanjayKhatiChhetri&layout=compact&langs_count=20&theme=default#gh-light-mode-only)](https://github.com/SanjayKhatiChhetri/github-readme-stats#gh-light-mode-only)
 
@@ -194,8 +182,12 @@
 [![Readme Card](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/pin/?username=SanjayKhatiChhetri&repo=devops-exercises&show_owner=true&theme=github_dark#gh-dark-mode-only)](https://github.com/SanjayKhatiChhetri/devops-exercises#gh-dark-mode-only)
 [![Readme Card](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/pin/?username=SanjayKhatiChhetri&repo=devops-exercises&show_owner=true&theme=default#gh-light-mode-only)](https://github.com/SanjayKhatiChhetri/devops-exercises#gh-light-mode-only)
 
-
 <!-- End of Github Extra Pins -->
+
+<!-- Start of WakaTime stats -->
+
+[![Sanjay's WakaTime stats](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/wakatime?username=@M_r_R_o_b_o_t&layout=compact&theme=github_dark#gh-dark-mode-only)](https://github.com/SanjayKhatiChhetri/devops-exercises#gh-dark-mode-only)
+[![Sanjay's WakaTime stats](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/wakatime?username=@M_r_R_o_b_o_t&layout=compact&theme=default#gh-light-mode-only)](https://github.com/SanjayKhatiChhetri/devops-exercises#gh-light-mode-only)
 
 
 
