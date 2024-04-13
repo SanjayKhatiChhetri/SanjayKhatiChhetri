@@ -1,6 +1,5 @@
-### Hi there
 
-<div>
+<div align="right">
    <!--align left profile views badge  -->
   <img src="https://komarev.com/ghpvc/?username=SanjayKhatiChhetri&label=Profile%20views&color=00cf00&style=flat" alt="SanjayKhatiChhetri" />
 </div>
