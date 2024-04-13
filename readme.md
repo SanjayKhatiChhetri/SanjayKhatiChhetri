@@ -12,7 +12,8 @@
 </h3>
 <h3 align="center"> I'm a Sanjay Khati Chhetri, a student, and a developer! </h3>
 
-  
+<br/>
+<br/>
 
 
 
