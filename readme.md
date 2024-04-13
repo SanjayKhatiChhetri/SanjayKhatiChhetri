@@ -141,21 +141,13 @@
 </div>
 
 <br><br/>
-<!-- Start of Github read me stats  -->
 
-[![Sanjay's GitHub stats-Dark](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api?username=SanjayKhatiChhetri&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=github_dark#gh-dark-mode-only)](https://github.com/SanjayKhatiChhetri/github-readme-stats#gh-dark-mode-only)
-[![Sanjay's GitHub stats-Light](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api?username=SanjayKhatiChhetri&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=default#gh-light-mode-only)](https://github.com/SanjayKhatiChhetri/github-readme-stats#gh-light-mode-only)
-
-<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- End of Github read me stats  -->
+|<!-- Start of Github read me stats  -->[![Sanjay's GitHub stats-Dark](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api?username=SanjayKhatiChhetri&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=github_dark#gh-dark-mode-only)](https://github.com/SanjayKhatiChhetri/github-readme-stats#gh-dark-mode-only)[![Sanjay's GitHub stats-Light](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api?username=SanjayKhatiChhetri&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=default#gh-light-mode-only)](https://github.com/SanjayKhatiChhetri/github-readme-stats#gh-light-mode-only)<!-- End of Github read me stats  --> | <!-- Start of Github Top Lang stats  -->[![Top Langs](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/top-langs/?username=SanjayKhatiChhetri&layout=compact&langs_count=20&theme=github_dark#gh-dark-mode-only)](https://github.com/SanjayKhatiChhetri/github-readme-stats#gh-dark-mode-only)[![Top Langs](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/top-langs/?username=SanjayKhatiChhetri&layout=compact&langs_count=20&theme=default#gh-light-mode-only)](https://github.com/SanjayKhatiChhetri/github-readme-stats#gh-light-mode-only)<!-- End of Github Top Lang stats  -->|
+| ------------- | ------------- |
 
 
-<!-- Start of Github Top Lang stats  -->
 
-[![Top Langs](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/top-langs/?username=SanjayKhatiChhetri&layout=compact&langs_count=20&theme=github_dark#gh-dark-mode-only)](https://github.com/SanjayKhatiChhetri/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/top-langs/?username=SanjayKhatiChhetri&layout=compact&langs_count=20&theme=default#gh-light-mode-only)](https://github.com/SanjayKhatiChhetri/github-readme-stats#gh-light-mode-only)
 
-<!-- End of Github Top Lang stats  -->
 
 <!-- Start of Github Gist Card -->
 
@@ -166,7 +158,6 @@
 [![Gist Card](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/gist?id=ae4dbebd21cee4da776c678b470dd078&show_owner=true&theme=default#gh-light-mode-only)](https://gist.github.com/SanjayKhatiChhetri/ae4dbebd21cee4da776c678b470dd078#gh-light-mode-only)
 
 <!-- End of Github Gist Card -->
-
 
 <!-- Start of Github Extra Pins -->
 
@@ -186,8 +177,5 @@
 
 <!-- Start of WakaTime stats -->
 
-[![Sanjay's WakaTime stats](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/wakatime?username=@M_r_R_o_b_o_t&layout=compact&theme=github_dark#gh-dark-mode-only)](https://github.com/SanjayKhatiChhetri/devops-exercises#gh-dark-mode-only)
-[![Sanjay's WakaTime stats](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/wakatime?username=@M_r_R_o_b_o_t&layout=compact&theme=default#gh-light-mode-only)](https://github.com/SanjayKhatiChhetri/devops-exercises#gh-light-mode-only)
-
-
-
+[![Sanjay's WakaTime stats](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/wakatime?username=@M_r_R_o_b_o_t&layout=compact&theme=github_dark#gh-dark-mode-only)](https://wakatime.com/@M_r_R_o_b_o_t#gh-dark-mode-only)
+[![Sanjay's WakaTime stats](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/wakatime?username=@M_r_R_o_b_o_t&layout=compact&theme=default#gh-light-mode-only)](https://wakatime.com/@M_r_R_o_b_o_t#gh-light-mode-only)
