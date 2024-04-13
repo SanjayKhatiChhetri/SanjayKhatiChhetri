@@ -136,7 +136,7 @@
 
 
 
-<div align="center">
+<div align="left">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SanjayKhatiChhetri/SanjayKhatiChhetri/output/github-contribution-grid-snake.svg" />
