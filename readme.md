@@ -139,6 +139,8 @@
   <h2>🐍 My Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SanjayKhatiChhetri/SanjayKhatiChhetri/output/github-contribution-grid-snake.svg" />
 </div>
+
+<br><br/>
 <!-- Start of Github read me stats  -->
 
 [![Sanjay's GitHub stats-Dark](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api?username=SanjayKhatiChhetri&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=github_dark#gh-dark-mode-only)](https://github.com/SanjayKhatiChhetri/github-readme-stats#gh-dark-mode-only)
@@ -146,14 +148,10 @@
 
 <!-- End of Github read me stats  -->
 
+
 <!-- Start of Github Top Lang stats  -->
 
-[![Top Langs-Dark](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/top-langs/?username=SanjayKhatiChhetri&layout=compact&langs_count=20&theme=github_dark)](https://github.com/SanjayKhatiChhetri/github-readme-stats#gh-light-mode-only)
-[![Top Langs-Light](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/top-langs/?username=SanjayKhatiChhetri&layout=compact&langs_count=20)](https://github.com/SanjayKhatiChhetri/github-readme-stats#gh-light-mode-only)
-
-<!-- End of Github Top Lang stats  -->
-
-<!-- <picture>
+<picture>
   <source
 	srcset="https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/top-langs/?username=SanjayKhatiChhetri&layout=compact&langs_count=20&theme=github_dark"
 	media="(prefers-color-scheme: dark)"
@@ -163,7 +161,10 @@
 	media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 	  />
   <img src="https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/top-langs/?username=SanjayKhatiChhetri&layout=compact&langs_count=20" />
-</picture> -->
+</picture>
+
+<!-- End of Github Top Lang stats  -->
+
 
 
 <picture>
