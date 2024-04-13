@@ -152,7 +152,7 @@
 
 <!-- Start of Github Top Lang stats  -->
 
-<picture align="center">
+<!-- <picture align="center">
   <source
 	srcset="https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/top-langs/?username=SanjayKhatiChhetri&layout=compact&langs_count=20&theme=github_dark"
 	media="(prefers-color-scheme: dark)"
@@ -162,24 +162,20 @@
 	media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 	  />
   <img src="https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/top-langs/?username=SanjayKhatiChhetri&layout=compact&langs_count=20" />
-</picture>
+</picture> -->
+
+[![Top Langs](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/top-langs/?username=SanjayKhatiChhetri&layout=compact&langs_count=20&theme=github_dark#gh-dark-mode-only)](https://github.com/SanjayKhatiChhetri/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/top-langs/?username=SanjayKhatiChhetri&layout=compact&langs_count=20&theme=default#gh-light-mode-only)](https://github.com/SanjayKhatiChhetri/github-readme-stats#gh-light-mode-only)
 
 <!-- End of Github Top Lang stats  -->
 
 <!-- Start of Github Gist Card -->
 
-<picture align="center">
-  <source
-	srcset="https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/gist?id=5b5cd2abd612bc8d096e383a32529192&show_owner=true&theme=github_dark"
-	media="(prefers-color-scheme: dark)"
-  />
-  <source
-  	srcset="https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/gist?id=5b5cd2abd612bc8d096e383a32529192&show_owner=true"
-	media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-	  />
-  <img href="https://gist.github.com/SanjayKhatiChhetri/5b5cd2abd612bc8d096e383a32529192" src="https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/gist?id=5b5cd2abd612bc8d096e383a32529192&show_owner=true" />
-  <!-- [![Gist Card](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/gist?id=5b5cd2abd612bc8d096e383a32529192&show_owner=true)](https://gist.github.com/SanjayKhatiChhetri/5b5cd2abd612bc8d096e383a32529192) -->
-</picture>
+[![Gist Card](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/gist?id=5b5cd2abd612bc8d096e383a32529192&show_owner=true&theme=github_dark#gh-dark-mode-only)](https://gist.github.com/SanjayKhatiChhetri/5b5cd2abd612bc8d096e383a32529192)
+[![Gist Card](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/gist?id=5b5cd2abd612bc8d096e383a32529192&show_owner=true&theme=default#gh-light-mode-only)](https://gist.github.com/SanjayKhatiChhetri/5b5cd2abd612bc8d096e383a32529192)
+
+[![Gist Card](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/gist?id=ae4dbebd21cee4da776c678b470dd078&show_owner=true&theme=github_dark#gh-dark-mode-only)](https://gist.github.com/SanjayKhatiChhetri/ae4dbebd21cee4da776c678b470dd078)
+[![Gist Card](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/gist?id=ae4dbebd21cee4da776c678b470dd078&show_owner=true&theme=default#gh-light-mode-only)](https://gist.github.com/SanjayKhatiChhetri/ae4dbebd21cee4da776c678b470dd078)
 
 <!-- End of Github Gist Card -->
 
