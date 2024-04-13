@@ -146,12 +146,13 @@
 [![Sanjay's GitHub stats-Dark](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api?username=SanjayKhatiChhetri&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=github_dark#gh-dark-mode-only)](https://github.com/SanjayKhatiChhetri/github-readme-stats#gh-dark-mode-only)
 [![Sanjay's GitHub stats-Light](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api?username=SanjayKhatiChhetri&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=default#gh-light-mode-only)](https://github.com/SanjayKhatiChhetri/github-readme-stats#gh-light-mode-only)
 
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- End of Github read me stats  -->
 
 
 <!-- Start of Github Top Lang stats  -->
 
-<picture>
+<picture align="center">
   <source
 	srcset="https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/top-langs/?username=SanjayKhatiChhetri&layout=compact&langs_count=20&theme=github_dark"
 	media="(prefers-color-scheme: dark)"
@@ -165,9 +166,9 @@
 
 <!-- End of Github Top Lang stats  -->
 
+<!-- Start of Github Gist Card -->
 
-
-<picture>
+<picture align="center">
   <source
 	srcset="https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/gist?id=5b5cd2abd612bc8d096e383a32529192&show_owner=true&theme=github_dark"
 	media="(prefers-color-scheme: dark)"
@@ -180,6 +181,39 @@
   <!-- [![Gist Card](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/gist?id=5b5cd2abd612bc8d096e383a32529192&show_owner=true)](https://gist.github.com/SanjayKhatiChhetri/5b5cd2abd612bc8d096e383a32529192) -->
 </picture>
 
+<!-- End of Github Gist Card -->
 
 
-<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- Start of Github Extra Pins -->
+<div>
+<picture>
+  <source
+	srcset="https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/pin/?username=SanjayKhatiChhetri&repo=github-readme-stats&theme=github_dark"
+	media="(prefers-color-scheme: dark)"
+  />
+  <source
+  	srcset="https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/pin/?username=SanjayKhatiChhetri&repo=github-readme-stats"
+	media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+	  />
+  <img src="https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/pin/?username=SanjayKhatiChhetri&repo=SanjayKhatiChhetri" />
+  <!-- [![Extra Pins](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/pin/?username=SanjayKhatiChhetri&repo=SanjayKhatiChhetri)]() -->
+</picture>
+
+<picture>
+  <source
+	srcset="https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/pin/?username=SanjayKhatiChhetri&repo=HackerNewsApp&theme=github_dark"
+	media="(prefers-color-scheme: dark)"
+  />
+  <source
+  	srcset="https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/pin/?username=SanjayKhatiChhetri&repo=HackerNewsApp"
+	media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+	  />
+  <img src="https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/pin/?username=SanjayKhatiChhetri&repo=SanjayKhatiChhetri" />
+  <!-- [![Extra Pins](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/pin/?username=SanjayKhatiChhetri&repo=SanjayKhatiChhetri)]() -->
+</picture>
+</div>
+
+<!-- End of Github Extra Pins -->
+
+
+
