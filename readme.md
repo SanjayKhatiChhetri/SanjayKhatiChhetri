@@ -140,4 +140,4 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SanjayKhatiChhetri/SanjayKhatiChhetri/output/github-contribution-grid-snake.svg" />
 </div>
 
-[![Sanjay's's GitHub stats](https://https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api?username=devsanjay)](https://github.com/SanjayKhatiChhetri/github-readme-stats)
+[![Sanjay's's GitHub stats](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api?username=SanjayKhatiChhetri)](https://github.com/SanjayKhatiChhetri/github-readme-stats)
