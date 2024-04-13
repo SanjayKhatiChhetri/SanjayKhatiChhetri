@@ -182,4 +182,4 @@
 
 ### :zap: Recent Activity
 
-<!--START_SECTION:activity -->
+<!--START_SECTION:activity-->
