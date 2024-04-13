@@ -1,7 +1,8 @@
-
 <div align="right">
    <!--align left profile views badge  -->
-  <img src="https://komarev.com/ghpvc/?username=SanjayKhatiChhetri&label=Profile%20views&color=00cf00&style=flat" alt="SanjayKhatiChhetri" />
+  	<img src="https://komarev.com/ghpvc/?username=SanjayKhatiChhetri&label=Profile%20views&color=00cf00&style=flat" alt="SanjayKhatiChhetri" />
+	<a href="https://github.com/SanjayKhatiChhetri/SanjayKhatiChhetri" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/SanjayKhatiChhetri/SanjayKhatiChhetri?label=profile%20updated&style=flat-square"></a>
+   	<a href="https://github.com/SanjayKhatiChhetri?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
 </div>
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
@@ -13,6 +14,7 @@
 <br/>
 
 ## Where to find me
+
 <p align="center">
 	<a href="https://github.com/SanjayKhatiChhetri" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-424242.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 	<a href="https://twitter.com/M_r_R_o_b_o_t_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
@@ -137,3 +139,5 @@
   <h2>🐍 My Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SanjayKhatiChhetri/SanjayKhatiChhetri/output/github-contribution-grid-snake.svg" />
 </div>
+
+[![Sanjay's's GitHub stats](https://https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api?username=SanjayKhatiChhetri)](https://github.com/SanjayKhatiChhetri/github-readme-stats)
