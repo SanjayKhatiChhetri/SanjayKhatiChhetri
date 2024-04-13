@@ -164,10 +164,20 @@
   <img src="https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/top-langs/?username=SanjayKhatiChhetri&layout=compact&langs_count=20" />
 </picture>
 
-<!-- ![Top Langs](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/top-langs/?username=SanjayKhatiChhetri&layout=compact&langs_count=20) -->
+
+<picture>
+  <source
+	srcset="https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/gist?id=5b5cd2abd612bc8d096e383a32529192&show_owner=true&theme=onedark"
+	media="(prefers-color-scheme: dark)"
+  />
+  <source
+  	srcset="https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/gist?id=5b5cd2abd612bc8d096e383a32529192&show_owner=true"
+	media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+	  />
+  <img src="https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/wakatime?username=SanjayKhatiChhetri&layout=compact&langs_count=20" />
+  <!-- [![Gist Card](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/gist?id=5b5cd2abd612bc8d096e383a32529192&show_owner=true)](https://gist.github.com/SanjayKhatiChhetri/5b5cd2abd612bc8d096e383a32529192) -->
+</picture>
 
 
-
-[![Gist Card](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/gist?id=5b5cd2abd612bc8d096e383a32529192&show_owner=true)](https://gist.github.com/SanjayKhatiChhetri/5b5cd2abd612bc8d096e383a32529192)
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
