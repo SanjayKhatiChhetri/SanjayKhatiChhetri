@@ -15,8 +15,6 @@
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 💬 Ask me about anything [here](https://github.com/SanjayKhatiChhetri/SanjayKhatiChhetri/issues).
 
-
-
 <br>
 <br/>
 
@@ -173,5 +171,15 @@
 
 <!-- Start of WakaTime stats -->
 
+### 📊𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 Metric
+
 [![Sanjay's WakaTime stats](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/wakatime?username=@M_r_R_o_b_o_t&layout=compact&theme=github_dark#gh-dark-mode-only)](https://wakatime.com/@M_r_R_o_b_o_t#gh-dark-mode-only)
 [![Sanjay's WakaTime stats](https://github-readme-stats-sanjay-khati-chhetris-projects.vercel.app/api/wakatime?username=@M_r_R_o_b_o_t&layout=compact&theme=default#gh-light-mode-only)](https://wakatime.com/@M_r_R_o_b_o_t#gh-light-mode-only)
+
+<!-- End of WakaTime stats -->
+
+<br />
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
