@@ -149,11 +149,14 @@
   <img alt="selenium  " width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" style="padding:15px;" />
   <img alt="reactrouter" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" style="padding:15px;" />
   <img alt="sqlite" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" style="padding:15px;" />
-  <img alt="ssh" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" style="padding:15px;" />
+  <picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://devicon-website.vercel.app/api/ssh/original-wordmark.svg&size=32" padding="15px">
+  <img alt="icon changing depending on mode. Light: 'https://devicon-website.vercel.app/api/ssh/original-wordmark.svg&size=32' Dark: 'https://devicon-website.vercel.app/api/ssh/original-wordmark.svg?color=white&size=32'" src="https://devicon-website.vercel.app/api/ssh/original-wordmark.svg?color=white&size=32">
+</picture>
   <img alt="tailwindcss" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" style="padding:15px;" />
   <img alt="unix" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" style="padding:15px;" />
   <img alt="v8" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/v8/v8-original.svg" style="padding:15px;" />
-  <img alt="vercel" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" style="padding:15px;" />
+  <img alt="vercel" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" style="padding:15px;" />
   <img alt="vim" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="padding:15px;" />
   <img alt="vite" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" style="padding:15px;" />
   <img alt="windows11" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" style="padding:15px;" />
@@ -161,6 +164,11 @@
   <img alt="yaml" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" style="padding:15px;" />
   <img alt="yarn" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" style="padding:15px;" />
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://devicon-website.vercel.app/api/ssh/original-wordmark.svg&size=32" padding="15px">
+  <img alt="icon changing depending on mode. Light: 'https://devicon-website.vercel.app/api/ssh/original-wordmark.svg&size=32' Dark: 'https://devicon-website.vercel.app/api/ssh/original-wordmark.svg?color=white&size=32'" src="https://devicon-website.vercel.app/api/ssh/original-wordmark.svg?color=white&size=32">
+</picture>
 
 <br>
 <br/>
