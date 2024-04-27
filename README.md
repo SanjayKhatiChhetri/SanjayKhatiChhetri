@@ -165,13 +165,14 @@
   <img alt="yarn" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" style="padding:15px;" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://devicon-website.vercel.app/api/ssh/original-wordmark.svg&size=32" padding="15px">
-  <img alt="icon changing depending on mode. Light: 'https://devicon-website.vercel.app/api/ssh/original-wordmark.svg&size=32' Dark: 'https://devicon-website.vercel.app/api/ssh/original-wordmark.svg?color=white&size=32'" src="https://devicon-website.vercel.app/api/ssh/original-wordmark.svg?color=white&size=32">
-</picture>
 
 <br>
 <br/>
+
+<!-- <picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://devicon-website.vercel.app/api/ssh/original-wordmark.svg&size=32" padding="15px">
+  <img alt="icon changing depending on mode. Light: 'https://devicon-website.vercel.app/api/ssh/original-wordmark.svg&size=32' Dark: 'https://devicon-website.vercel.app/api/ssh/original-wordmark.svg?color=white&size=32'" src="https://devicon-website.vercel.app/api/ssh/original-wordmark.svg?color=white&size=32">
+</picture> -->
 
 <div align="left">
   <h2>🐍 My Contributions 🐍</h2>
