@@ -150,8 +150,8 @@
   <img alt="reactrouter" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" style="padding:15px;" />
   <img alt="sqlite" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" style="padding:15px;" />
   <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://devicon-website.vercel.app/api/ssh/original-wordmark.svg&size=32" padding="15px">
-  <img alt="icon changing depending on mode. Light: 'https://devicon-website.vercel.app/api/ssh/original-wordmark.svg&size=32' Dark: 'https://devicon-website.vercel.app/api/ssh/original-wordmark.svg?color=white&size=32'" src="https://devicon-website.vercel.app/api/ssh/original-wordmark.svg?color=white&size=32">
+  <source media="(prefers-color-scheme: light)" srcset="https://devicon-website.vercel.app/api/ssh/original-wordmark.svg?size=32" padding="15px">
+  <img alt="icon changing depending on mode. Light: 'https://devicon-website.vercel.app/api/ssh/original-wordmark.svg?size=32' Dark: 'https://devicon-website.vercel.app/api/ssh/original-wordmark.svg?color=white&size=32'" src="https://devicon-website.vercel.app/api/ssh/original-wordmark.svg?color=white&size=32">
 </picture>
   <img alt="tailwindcss" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" style="padding:15px;" />
   <img alt="unix" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" style="padding:15px;" />
