@@ -35,32 +35,45 @@
 <br>
 <br/>
 
+
 ## Languages and Tools:
 
-<p align="left">
+<p "align="left">
   <img alt="Visual Studio Code" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding:10px;" />
   <img alt="HTML5" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding:10px;" />
   <img alt="CSS3" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding:10px;" />
   <img alt="Sass" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding:10px;" />
   <img alt="JavaScript" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding:10px;" />
   <img alt="React" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding:10px;" />
-  <img alt="bash" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding:10px;" />
+  <picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://devicon-website.vercel.app/api/bash/plain.svg?color=black&size=28" style="padding:10px">
+  <img alt="Icon changing depending on mode. Light: 'https://devicon-website.vercel.app/api/bash/plain.svg?color=black&size=28' Dark: 'https://devicon-website.vercel.app/api/bash/plain.svg?color=white&size=28'" src="https://devicon-website.vercel.app/api/bash/plain.svg?color=white&size=28">
+</picture>
   <img alt="powershell" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" style="padding:10px;" />
   <img alt="docker" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="padding:10px;" />
   <img alt="Node.js" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding:10px;" />
-  <img alt="Deno" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" style="padding:10px;" />
+ <picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://devicon-website.vercel.app/api/denojs/original.svg?size=28px" style="padding:10px">
+  <img alt="Icon changing depending on mode. Light: 'https://devicon-website.vercel.app/api/denojs/original.svg?size=28px' Dark: 'https://devicon-website.vercel.app/api/denojs/original.svg?color=white&size=28px'" src="https://devicon-website.vercel.app/api/denojs/original.svg?color=white&size=28px">
+</picture>
   <img alt="MongoDB" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding:10px;" />
   <img alt="MySQL" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding:10px;" />
   <img alt="postgressql" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="padding:10px;" />
   <img alt="Git" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding:10px;" />
-  <img alt="GitHub" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding:10px;" />
+  <picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://devicon-website.vercel.app/api/github/original.svg?color=black&size=28" style="padding:10px">
+  <img alt="Icon changing depending on mode. Light: 'https://devicon-website.vercel.app/api/github/original.svg?color=black&size=28' Dark: 'https://devicon-website.vercel.app/api/github/original.svg?color=white&size=28'" src="https://devicon-website.vercel.app/api/github/original.svg?color=white&size=28">
+</picture>
   <img alt="GitLab" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" style="padding:10px;" />
   <img alt="Jira" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="padding:10px;" />
   <img alt="Confluence" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" style="padding:10px;" />
   <img alt="Slack" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" style="padding:10px;" />
   <img alt="Trello" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" style="padding:10px;" />
   <img alt="Figma" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding:10px;" />
-  <img alt="Markdown" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" style="padding:10px;" />
+  <picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://devicon-website.vercel.app/api/markdown/original.svg?size=28px" style="padding:10px">
+  <img alt="Icon changing depending on mode. Light: 'https://devicon-website.vercel.app/api/markdown/original.svg?color=white&size=28px' Dark: 'https://devicon-website.vercel.app/api/markdown/original.svg?size=28'" src="https://devicon-website.vercel.app/api/markdown/original.svg?color=white&size=28px">
+</picture>
   <img alt="flutter" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding:10px;" />
   <img alt="dart" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="padding:10px;" />
   <img alt="firebase" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" style="padding:10px;" />
@@ -76,7 +89,10 @@
   <img alt="eslint" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" style="padding:10px;" />
   <img alt="anaconda" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" style="padding:10px;" />
   <img alt="android" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" style="padding:10px;" />
-  <img alt="apple" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" style="padding:10px;" />
+  <picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://devicon-website.vercel.app/api/apple/original.svg?size=28px" style="padding:10px">
+  <img alt="Icon changing depending on mode. Light: 'https://devicon-website.vercel.app/api/apple/original.svg?color=white&size=28px' Dark: 'https://devicon-website.vercel.app/api/apple/original.svg?size=28px'" src="https://devicon-website.vercel.app/api/apple/original.svg?color=white&size=28px">
+</picture>
   <img alt="androidstudio" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" style="padding:10px;" />
   <img alt="antdesign" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg" style="padding:10px;" />
   <img alt="apache" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" style="padding:10px;" />
@@ -84,10 +100,18 @@
   <img alt="bootstrap" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding:10px;" />
   <img alt="canva" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" style="padding:10px;" />
   <img alt="chrome" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" style="padding:10px;" />
-  <img alt="codepen" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" style="padding:10px;" />
-  <img alt="corejs" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/corejs/corejs-original.svg" style="padding:10px;" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://devicon-website.vercel.app/api/codepen/plain.svg?color=black&size=28px" style="padding:10px">
+  <img alt="icon changing depending on mode. Light: 'https://devicon-website.vercel.app/api/codepen/plain.svg?color=black&size=28px' Dark: 'https://devicon-website.vercel.app/api/codepen/plain.svg?color=white&size=28px'" src="https://devicon-website.vercel.app/api/codepen/plain.svg?color=white&size=28px">
+</picture>
+<!--   <img alt="codepen" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" style="padding:10px;" #gh-light-mode-only/>
+  <img alt="codepen" width="28px" src="https://devicon-website.vercel.app/api/codepen/plain.svg?color=white" style="padding:10px;" #gh-dark-mode-only/> -->
+  <img alt="corejs" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/corejs/corejs-original.svg"" style="padding:10px;" />
   <img alt="debian" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" style="padding:10px;" /> 
-  <img alt="express" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding:10px;" />
+  <picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://devicon-website.vercel.app/api/express/original.svg?size=28px" style="padding:10px">
+  <img alt="Icon changing depending on mode. Light: 'https://devicon-website.vercel.app/api/express/original.svg?color=white&size=28px' Dark: 'https://devicon-website.vercel.app/api/express/original.svg?size=28px'" src="https://devicon-website.vercel.app/api/express/original.svg?color=white&size=28px">
+</picture>
   <img alt="firefox" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" style="padding:10px;" />
   <img alt="githubactions" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" style="padding:10px;" />
   <img alt="githubcodespaces" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubcodespaces/githubcodespaces-original.svg" style="padding:10px;" />
