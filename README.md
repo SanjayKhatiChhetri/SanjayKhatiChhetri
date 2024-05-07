@@ -207,8 +207,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/ComapnyProject-Kaiku/Kaiku/pull/9#issuecomment-2058837534) in [ComapnyProject-Kaiku/Kaiku](https://github.com/ComapnyProject-Kaiku/Kaiku)
-2. 🎉 Merged PR [#9](https://github.com/ComapnyProject-Kaiku/Kaiku/pull/9) in [ComapnyProject-Kaiku/Kaiku](https://github.com/ComapnyProject-Kaiku/Kaiku)
-3. 💪 Opened PR [#9](https://github.com/ComapnyProject-Kaiku/Kaiku/pull/9) in [ComapnyProject-Kaiku/Kaiku](https://github.com/ComapnyProject-Kaiku/Kaiku)
-4. 🗣 Commented on [#16](https://github.com/anttimaki/next-orangews/pull/16#issuecomment-2020436668) in [anttimaki/next-orangews](https://github.com/anttimaki/next-orangews)
+1. 🎉 Merged PR [#10](https://github.com/ComapnyProject-Kaiku/Kaiku/pull/10) in [ComapnyProject-Kaiku/Kaiku](https://github.com/ComapnyProject-Kaiku/Kaiku)
+2. 💪 Opened PR [#10](https://github.com/ComapnyProject-Kaiku/Kaiku/pull/10) in [ComapnyProject-Kaiku/Kaiku](https://github.com/ComapnyProject-Kaiku/Kaiku)
+3. 🗣 Commented on [#9](https://github.com/ComapnyProject-Kaiku/Kaiku/pull/9#issuecomment-2058837534) in [ComapnyProject-Kaiku/Kaiku](https://github.com/ComapnyProject-Kaiku/Kaiku)
+4. 🎉 Merged PR [#9](https://github.com/ComapnyProject-Kaiku/Kaiku/pull/9) in [ComapnyProject-Kaiku/Kaiku](https://github.com/ComapnyProject-Kaiku/Kaiku)
 <!--END_SECTION:activity-->
