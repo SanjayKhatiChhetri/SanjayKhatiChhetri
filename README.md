@@ -207,8 +207,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#15](https://github.com/SanjayKhatiChhetri/TodoReactApp/issues/15) in [SanjayKhatiChhetri/TodoReactApp](https://github.com/SanjayKhatiChhetri/TodoReactApp)
-2. 💪 Opened PR [#10](https://github.com/ComapnyProject-Kaiku/Kaiku/pull/10) in [ComapnyProject-Kaiku/Kaiku](https://github.com/ComapnyProject-Kaiku/Kaiku)
-3. 🗣 Commented on [#9](https://github.com/ComapnyProject-Kaiku/Kaiku/pull/9#issuecomment-2058837534) in [ComapnyProject-Kaiku/Kaiku](https://github.com/ComapnyProject-Kaiku/Kaiku)
-4. 🎉 Merged PR [#9](https://github.com/ComapnyProject-Kaiku/Kaiku/pull/9) in [ComapnyProject-Kaiku/Kaiku](https://github.com/ComapnyProject-Kaiku/Kaiku)
+1. 🎉 Merged PR [#11](https://github.com/ComapnyProject-Kaiku/Kaiku/pull/11) in [ComapnyProject-Kaiku/Kaiku](https://github.com/ComapnyProject-Kaiku/Kaiku)
+2. ❌ Reopened PR [#11](https://github.com/ComapnyProject-Kaiku/Kaiku/pull/11) in [ComapnyProject-Kaiku/Kaiku](https://github.com/ComapnyProject-Kaiku/Kaiku)
+3. 🗣 Commented on [#11](https://github.com/ComapnyProject-Kaiku/Kaiku/pull/11#issuecomment-2282822787) in [ComapnyProject-Kaiku/Kaiku](https://github.com/ComapnyProject-Kaiku/Kaiku)
+4. ❌ Closed PR [#11](https://github.com/ComapnyProject-Kaiku/Kaiku/pull/11) in [ComapnyProject-Kaiku/Kaiku](https://github.com/ComapnyProject-Kaiku/Kaiku)
 <!--END_SECTION:activity-->
