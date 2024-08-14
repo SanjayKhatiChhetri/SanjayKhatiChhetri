@@ -207,8 +207,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/ComapnyProject-Kaiku/Kaiku/pull/11) in [ComapnyProject-Kaiku/Kaiku](https://github.com/ComapnyProject-Kaiku/Kaiku)
-2. ❌ Reopened PR [#11](https://github.com/ComapnyProject-Kaiku/Kaiku/pull/11) in [ComapnyProject-Kaiku/Kaiku](https://github.com/ComapnyProject-Kaiku/Kaiku)
-3. 🗣 Commented on [#11](https://github.com/ComapnyProject-Kaiku/Kaiku/pull/11#issuecomment-2282822787) in [ComapnyProject-Kaiku/Kaiku](https://github.com/ComapnyProject-Kaiku/Kaiku)
-4. ❌ Closed PR [#11](https://github.com/ComapnyProject-Kaiku/Kaiku/pull/11) in [ComapnyProject-Kaiku/Kaiku](https://github.com/ComapnyProject-Kaiku/Kaiku)
+1. 💪 Opened PR [#33678](https://github.com/ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub/pull/33678) in [ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub](https://github.com/ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub)
+2. 🎉 Merged PR [#11](https://github.com/ComapnyProject-Kaiku/Kaiku/pull/11) in [ComapnyProject-Kaiku/Kaiku](https://github.com/ComapnyProject-Kaiku/Kaiku)
+3. ❌ Reopened PR [#11](https://github.com/ComapnyProject-Kaiku/Kaiku/pull/11) in [ComapnyProject-Kaiku/Kaiku](https://github.com/ComapnyProject-Kaiku/Kaiku)
+4. 🗣 Commented on [#11](https://github.com/ComapnyProject-Kaiku/Kaiku/pull/11#issuecomment-2282822787) in [ComapnyProject-Kaiku/Kaiku](https://github.com/ComapnyProject-Kaiku/Kaiku)
 <!--END_SECTION:activity-->
