@@ -30,6 +30,7 @@
 	<a href="https://infosec.exchange/@sanjaykhatichhetri" target="_blank"><img alt="Mastodon" src="https://img.shields.io/badge/Mastodon-6260fb.svg?&style=for-the-badge&logo=Mastodon&logoColor=white" /></a>
 	<a href="https://www.researchgate.net/profile/Sanjay-Chhetri-3" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" /></a>
 	<a href="https://literal.club/m_r_r_o_b_o_t" target="_blank"><img alt="Literal" src="https://img.shields.io/badge/Literal.club-e1e6ea.svg?&style=for-the-badge&logo=Literal.club&logoColor=original" /></a>
+	<a href="https://bsky.app/profile/mr-r-o-b-o-t.bsky.social" target="_blank"><img alt="Literal" src="https://img.shields.io/badge/BlueSky-e1e6ea.svg?&style=for-the-badge&logo=BlueSky&logoColor=original" /></a>
 </p>
 
 <br>
